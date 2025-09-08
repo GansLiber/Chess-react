@@ -1,8 +1,8 @@
 import {Figure, FigureNames} from "./Figure";
 import {Cell} from "../Cell";
 import {Colors} from "../Colors";
-import blackLogo from '../../assets/Chess_black-pown.svg'
-import whiteLogo from '../../assets/Chess_white-pown.svg'
+import blackLogo from '../../assets/Chess_black-pawn.svg'
+import whiteLogo from '../../assets/Chess_white-pawn.svg'
 
 export class Pawn extends Figure {
 

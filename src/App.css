@@ -33,3 +33,7 @@
 .white {
     background-color: #f1dab5;
 }
+
+.selected {
+    background-color: brown;
+}
