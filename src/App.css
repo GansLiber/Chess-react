@@ -45,3 +45,14 @@
     border-radius: 50%;
     background-color: #4ca646;
 }
+
+.lost {
+    height: calc(40vh - 60px);
+    padding: 30px;
+    margin-left: 50px;
+    background-color: lightgray;
+}
+
+.lost__wrap{
+    height: 80vh;
+}
